@@ -1,2 +1,3 @@
-# trimosRanking
-Games Ranking
+# trimos-ranking
+
+Nothing to type.
